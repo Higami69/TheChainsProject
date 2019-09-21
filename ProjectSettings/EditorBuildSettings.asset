@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/GC_MainScene.unity
+    guid: 2df6ea597b042a44e8a00c0537177983
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/Screens/GC_BuildingTreeScene.unity
+    guid: 00095d48339e39f4896d4b06c2f577b8
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/TownMenu/GC_TownMenuMaster.unity
+    guid: b973a73e9e7fc734fad4b274a876e094
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/TownMenu/GC_TownMenuGeneral.unity
+    guid: 6635e3f49eee31e469a8465a13cd57d1
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/TownMenu/GC_TownMenuBuilding.unity
+    guid: e87b637d3b4da5547a7553c0cf2f31f4
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/TownMenu/GC_TownMenuRecruitment.unity
+    guid: d521f604179c33d428b5abfd745015e6
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/TownMenu/GC_TownMenuArmy.unity
+    guid: 407bd1bd2459f9d46a8d8d503bff25c4
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/Screens/GC_RecruitmentScene.unity
+    guid: 6b5978610f3045248a6c388a62790379
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/Screens/GC_UnitStats.unity
+    guid: c31d665f51383ec4a9d2ad9d97a86d0f
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/RegionMenu/GC_RegionMenuMaster.unity
+    guid: fc40401dcf43de84ba6b7be1d2042431
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/RegionMenu/GC_RegionMenuGeneral.unity
+    guid: 2f3cd312f477b634d896f4a50429674c
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/RegionMenu/GC_RegionMenuBuilding.unity
+    guid: 5457053130846bc4a9a79f6f911b9473
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/Screens/GC_QuestFullScene.unity
+    guid: 6a8ed0501fcd5d74e9ef405856f40319
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/Screens/GC_QuestScene.unity
+    guid: 9b6f82357da704541bbb46daa3e4eee3
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/ArmyMenu/GC_ArmyMenuMaster.unity
+    guid: a467b12dc56a2e94d8cdfb2d2df3b6f4
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/ArmyMenu/GC_ArmyMenuArmy.unity
+    guid: e882a27a7473ad14d943179e7b0c673f
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/Screens/GC_PostCombatScene.unity
+    guid: 495def40f5748464fab84a51682552fa
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/GC_VictoryScene.unity
+    guid: c9199ed95c6540244be607266968dd9b
+  - enabled: 1
+    path: Assets/Grand Campaign/Scenes/Screens/GC_PauseMenu.unity
+    guid: 44922bd8a546c35429cd16f114758398
+  m_configObjects: {}
